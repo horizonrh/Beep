@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>22502C25-98DF-4A50-AD44-000B4887D6A1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Beep</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>24F4E096DC7A1B49C848B4D77750455FC0292C55</key>
 		<string>https://github.com/horizonrh/Beep</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Beep/Beep.xcodeproj/project.xcworkspace</string>
+	<string>Beep/Beep.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>24F4E096DC7A1B49C848B4D77750455FC0292C55</key>

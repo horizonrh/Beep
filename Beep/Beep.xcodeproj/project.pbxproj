@@ -16,6 +16,8 @@
 		8F091A221B949E2200AAF8CF /* BeepTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F091A211B949E2200AAF8CF /* BeepTests.swift */; };
 		8F220FDE1B94BA42006E2B0F /* HttpClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F220FDD1B94BA42006E2B0F /* HttpClient.swift */; };
 		8F25BBFC1B9748E000D98C90 /* PubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F25BBFB1B9748E000D98C90 /* PubViewController.swift */; };
+		8FC498D51B9DE87D0021B462 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC498D41B9DE87D0021B462 /* AddViewController.swift */; };
+		8FC498D71B9DF1430021B462 /* AddProcessController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC498D61B9DF1430021B462 /* AddProcessController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +44,8 @@
 		8F091A211B949E2200AAF8CF /* BeepTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeepTests.swift; sourceTree = "<group>"; };
 		8F220FDD1B94BA42006E2B0F /* HttpClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HttpClient.swift; path = network/HttpClient.swift; sourceTree = "<group>"; };
 		8F25BBFB1B9748E000D98C90 /* PubViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PubViewController.swift; sourceTree = "<group>"; };
+		8FC498D41B9DE87D0021B462 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
+		8FC498D61B9DF1430021B462 /* AddProcessController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddProcessController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +96,8 @@
 				8F091A141B949E2200AAF8CF /* LaunchScreen.xib */,
 				8F091A071B949E2200AAF8CF /* Supporting Files */,
 				8F220FDD1B94BA42006E2B0F /* HttpClient.swift */,
+				8FC498D41B9DE87D0021B462 /* AddViewController.swift */,
+				8FC498D61B9DF1430021B462 /* AddProcessController.swift */,
 			);
 			path = Beep;
 			sourceTree = "<group>";
@@ -223,6 +229,8 @@
 			files = (
 				8F091A0E1B949E2200AAF8CF /* SecondViewController.swift in Sources */,
 				8F091A0A1B949E2200AAF8CF /* AppDelegate.swift in Sources */,
+				8FC498D71B9DF1430021B462 /* AddProcessController.swift in Sources */,
+				8FC498D51B9DE87D0021B462 /* AddViewController.swift in Sources */,
 				8F220FDE1B94BA42006E2B0F /* HttpClient.swift in Sources */,
 				8F091A0C1B949E2200AAF8CF /* FirstViewController.swift in Sources */,
 				8F25BBFC1B9748E000D98C90 /* PubViewController.swift in Sources */,
